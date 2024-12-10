@@ -1,0 +1,6 @@
+git config --list
+git config --config user.name (nome de usuário do github)
+git config --config user.email (email de usuário do github)
+git clone 
+dillinger
+markdown
